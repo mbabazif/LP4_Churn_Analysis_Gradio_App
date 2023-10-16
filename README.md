@@ -1,6 +1,6 @@
 # OBJECTIVE
 
-The aim of this project is to develop and launch an application for my classification model. In the model training phase, I opted for the XGBOOST Model
+The aim of this project is to develop and launch an application for my classification model. In the model training phase, I opted for the Random Forest Model
 
 ## Setup
 To manually install, ensure that Python3 is present on your system. Then, establish a virtual environment and proceed to install the requirements from the 'requirements.txt' file.
