@@ -1,4 +1,4 @@
-OBJECTIVE
+# OBJECTIVE
 
 The aim of this project is to develop and launch an application for my classification model. In the model training phase, I opted for the XGBOOST Model
 
@@ -10,14 +10,15 @@ Linux & MacOs:
     python3 -m venv venv; source venv/bin/activate; python -m pip install --upgrade pip; python -m pip install -r requirements.txt  
 
 
-Gradio:
+## Gradio:
 
 Run
 
 python3.8 app2.py
 
 
-Author
+## Author
+
 Florence Mbabazi
 
 You can contact me:
